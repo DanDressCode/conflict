@@ -52,6 +52,11 @@ em {
 
 }
 
+.blueS{
+    color: rgba(225, 0, 255, 0.541);
+ 
+ }
+
 .background-bob {
     background-color: rgba(0, 255, 255,.5) !important;
     background-image: url(https://mobimg.b-cdn.net/v3/fetch/93/937934a85e316ff536e77202163a353d.jpeg?h=900&r=0.5);
